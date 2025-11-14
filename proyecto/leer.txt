@@ -1,0 +1,4 @@
+Iniciar la pagina web
+
+C:\proyecto\proyecto\backend>npm start
+C:\proyecto\proyecto\frontend>npm start
